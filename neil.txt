@@ -1,2 +1,2 @@
-My name is Neil Jhaveri.
+My name is Neil.
 Anyone can use this repository to learn different concepts related to GitHub.
